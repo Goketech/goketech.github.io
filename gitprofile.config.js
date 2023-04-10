@@ -43,11 +43,11 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'Zuri Team, Inc',
+      position: 'Full Stack Developer Intern',
+      from: 'May 2022',
+      to: 'August 2022',
+      companyLink: 'https://zuri.team/',
     },
     {
       company: 'Company Name',
