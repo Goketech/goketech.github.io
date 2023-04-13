@@ -50,11 +50,11 @@ const config = {
       companyLink: 'https://zuri.team/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Techathon',
+      position: 'Frontend Developer Intern',
+      from: 'June 2022',
+      to: 'September 2022',
+      companyLink: 'https://techathonian.com/',
     },
   ],
   /* certifications: [
