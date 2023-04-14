@@ -86,7 +86,7 @@ const config = {
       title: 'Netflix Clone',
       description:
         'A Netflix movie Web App that fetches current and Trending movies using the movie database API.',
-      imageUrl: './public/movie-trailer.png',
+      imageUrl: '/public/movie-trailer.png',
       link: 'https://netflix-ten-iota.vercel.app/',
     },
     {
