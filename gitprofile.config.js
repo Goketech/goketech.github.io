@@ -83,11 +83,11 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Netflix Clone',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'A Netflix movie Web App that fetches current and Trending movies using the movie database API.',
+      imageUrl: 'public/movie-trailer.png',
+      link: 'https://netflix-ten-iota.vercel.app/',
     },
     {
       title: 'Project Name',
